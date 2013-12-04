@@ -1,5 +1,3 @@
-# About the project.
-
 This repository - https://github.com/greyscalepress/catalogue-lumiere - contains a list of the 1428 identified films produced by the Lumière company between 1895-1905.
 
 The list comes as a simple CSV file, containing a set of metadata for each title. 
