@@ -2,7 +2,7 @@ This repository - https://github.com/greyscalepress/catalogue-lumiere - contains
 
 The list comes as a simple CSV file, containing a set of metadata for each title. 
 
-The data is also available through the website http://catalogue-lumiere.com/ which offers an interface for browsing / searching through specific paramters.
+The data is also available through the website http://catalogue-lumiere.com/ which offers an interface for browsing / searching through specific parameters.
 
 ## Understanding the data
 
