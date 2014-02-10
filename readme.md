@@ -19,7 +19,7 @@ Here is the key to the table:
 9. "lieu": human-readable location names (where it was filmed).
 10. "id-pays": country-ID.
 11. "id-ville": city-ID.
-12. "id-lieux": location-ID.
+12. "id-lieux": location-ID (mountain, seaside, train station, zoo...). 33 elements.
 13. "date": human readable date of production.
 14. "timestamp": machine-readable date stamp (approximate date of production).
 15. "info-1": mysterious metadata.
@@ -30,15 +30,15 @@ Here is the key to the table:
 20. "info-6": mysterious metadata.
 21. "info-7": mysterious metadata.
 22. "id-events": mysterious metadata.
-23. "id-genres": mysterious metadata.
-24. "id-sujet": mysterious metadata.
+23. "id-genres": mysterious metadata. 14 elements.
+24. "id-sujet": types of people (acrobats, peasants, children...).
 25. "id-identity": numerical ID of persons appearing in the film.
 26. "sequence-1": mysterious metadata.
 27. "sequence-2": mysterious metadata.
 28. "personnes": notes about persons appearing in the film.
 29. "technique": technical details about the filming process (camera motions, etc).
-30. "id-objet": mysterious metadata.
-31. "id-mouv": mysterious metadata.
+30. "id-objet": motives (train, boat, machines...). 19 elements.
+31. "id-mouv": type of action (arrival, departure...). 9 elements.
 32. "support": technical details about the film negative.
 
 ## Source of the data
