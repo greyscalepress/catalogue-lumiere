@@ -2,6 +2,22 @@
 
 Some more details about the classification:
 
+## Genre
+1. art
+2. comédie
+3. coutumes
+4. distraction
+5. événement officiel
+6. famille
+7. militaire
+8. publicité
+9. religion
+10. spectacle
+11. sport
+12. travail
+13. villes et paysages
+14. vue comique
+
 ## Mouvement (id-mouv)
 Type of motion (arrival, departure...). 9 elements.
 
@@ -75,13 +91,57 @@ Motives (train, boat, machines...). 19 elements.
 
 
 ## technique
-1 Arrêt caméra (62)
-2 Changement d'axe (16)
-3 Collure (57)
-4 Couleur (5)
-5 Longueur
-6 Multiplan
-7 Plongée
-8 Travelling
-9 Trucage
+1. Arrêt caméra (62)
+2. Changement d'axe (16)
+3. Collure (57)
+4. Couleur (5)
+5. Longueur
+6. Multiplan
+7. Plongée
+8. Travelling
+9. Trucage
 
+## Lieu
+1. abattoir
+2. arène
+3. arsenal
+4. campagne
+5. caserne
+6. champ de manoeuvres
+7. chantier
+8. Cinématographe (salle du)
+9. cours d'eau
+10. décor
+11. domicile
+12. école
+13. édifice religieux
+14. ferme
+15. gare
+16. hippodrome
+17. jardin
+18. lac
+19. marché
+20. mer
+21. montagne
+22. palais royal
+23. parc
+24. patinoire
+25. place
+26. plage
+27. pont
+28. port
+29. rue
+30. usine
+31. village noir (exposition)
+32. ville
+33. zoo
+
+## Identities: 
+
+55. Henry Walter Barnett
+
+## Texts:
+Félix Mesguich
+Chiens savants
+
+Info-Six: 

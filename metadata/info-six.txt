@@ -1,0 +1,8 @@
+#11:"Bakou",
+#17:"Cologne",
+#22:"Boston",
+#29:"Chicago",
+#49:"Neuhausen am Rheinfall",
+#58:"Lourdes",
+#115:"Vues historiques et scènes reconstituées",
+#122:"Sud"

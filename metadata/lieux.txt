@@ -1,0 +1,33 @@
+1. abattoir
+2. arène
+3. arsenal
+4. campagne
+5. caserne
+6. champ de manoeuvres
+7. chantier
+8. Cinématographe (salle du)
+9. cours d'eau
+10. décor
+11. domicile
+12. école
+13. édifice religieux
+14. ferme
+15. gare
+16. hippodrome
+17. jardin
+18. lac
+19. marché
+20. mer
+21. montagne
+22. palais royal
+23. parc
+24. patinoire
+25. place
+26. plage
+27. pont
+28. port
+29. rue
+30. usine
+31. village noir (exposition)
+32. ville
+33. zoo
