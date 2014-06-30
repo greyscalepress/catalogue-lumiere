@@ -66,6 +66,7 @@
 #88:"Le président à Tunis",
 #89:"La porte de Jaffa",
 #101:"La revue navale à Cagliari",
+#103:"Arroseur et arrosé",
 #105:"Les dernières vues comiques",
 #130:"Promenades au jardin d'acclimatation de Paris",
 #132:"Fête à la caserne",
