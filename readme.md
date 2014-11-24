@@ -45,9 +45,9 @@ Here is the key to the table:
 
 The data has been extracted from the CD-Rom that accompanies the book "La production cinématographique des Frères Lumière", published 1996 by the Centre national de la Cinématographie and Université Lumière-Lyon 2.
 
-This catalogue is out-of-print, and will be hard to get, unless you have access to a good academic libraray.
+This catalogue is out-of-print, and will be hard to get, unless you have access to a good academic library.
 
-The CD-Rom contains a bibliographic application, made in Macromedia Director. It was targetted for MacOS System 7 and Windows 95, and is unreadable on current operating systems.
+The CD-Rom contains a bibliographic application, made in Macromedia Director. It was targeted for MacOS System 7 and Windows 95, and is unreadable on current operating systems.
 
 However, the raw binary files of the CD-Rom contain some readable text data, which I was able to retrieve.
 
@@ -62,6 +62,6 @@ It's pretty much impossible to establish a clear copyright situation for this ty
 Personally, I place all my contributions to this set of metadata under the Creative Commons Zero Public Domain Dedication (CC0), in order to facilitate research.
 
 Manuel Schmalstieg<br/>
-Ditigal archivist<br/>
+Digital archivist<br/>
 December 2013
 
