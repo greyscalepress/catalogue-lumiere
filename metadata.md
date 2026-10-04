@@ -71,24 +71,23 @@ Motives (train, boat, machines...). 19 elements.
 
 ## sujet: 
 
-1 acrobate et équilibriste (48)
-2 agriculteur (13)
-3 animal
-4 opérateur
-5 clown
-6 comédien
-7 danseur
-8 dresseur
-9 enfant
-10 groupe ethnique
-11 marin
-12 ouvrier
-13 pêcheur
-14 personnalité
-15 pompier
-16 religieux
-17 soldat
-
+1. acrobate et équilibriste (48)
+2. agriculteur (13)
+3. animal
+4. opérateur
+5. clown
+6. comédien
+7. danseur
+8. dresseur
+9. enfant
+10. groupe ethnique
+11. marin
+12. ouvrier
+13. pêcheur
+14. personnalité
+15. pompier
+16. religieux
+17. soldat
 
 ## technique
 1. Arrêt caméra (62)
@@ -141,7 +140,7 @@ Motives (train, boat, machines...). 19 elements.
 55. Henry Walter Barnett
 
 ## Texts:
-Félix Mesguich
-Chiens savants
+* Félix Mesguich
+* Chiens savants
 
-Info-Six: 
+## Info-Six: 
